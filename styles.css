@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+.custom-heading {
+            color: #3b99e0;
+            text-align: center;
+        }
+
+        .summary {
+            border-top: 2px solid #5ea4f3;
+            background-color: #f7fbff;
+            padding: 20px;
+        }
+
+        .product {
+            margin-bottom: 30px;
+        }
+
+        .product img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .summary-block {
+            border-bottom: 2px solid #5ea4f3;
+            padding-bottom: 20px;
+        }
+
+        .summary-block button {
+            background-color: #3b99e0;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
